@@ -7,8 +7,8 @@ body {
 }
 
 header {
-  background: #007acc;
-  color: white;
+  background: #cc008f;
+  color: rgb(244, 239, 242);
   padding: 2rem;
   text-align: center;
 }
@@ -17,7 +17,7 @@ section {
   padding: 2rem;
   margin: 1rem auto;
   max-width: 800px;
-  background: white;
+  background: rgb(244, 170, 221);
   border-radius: 8px;
 }
 
@@ -29,7 +29,7 @@ section {
 
 #about img {
   width: 150px;
-  border-radius: 50%;
+  border-radius: 60%;
 }
 
 ul {
@@ -43,7 +43,7 @@ ul {
 footer {
   text-align: center;
   padding: 1rem;
-  background: #007acc;
+  background: #cc008f;
   color: white;
   margin-top: 2rem;
 }
