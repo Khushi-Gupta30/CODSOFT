@@ -1,0 +1,8 @@
+15 June, 2025
+Day 1
+-Read internship instructions carefully.
+-Learnt about GitHub.
+-Created GitHub Repository named "-CODSOFT".
+-Created folder named "Daily Report" inside this repo.
+-Wrote Day 1 Report.
+-Pushed Day 1 Report to GitHub.
