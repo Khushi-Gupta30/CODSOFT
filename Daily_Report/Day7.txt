@@ -1,0 +1,4 @@
+21 June, 2025
+Day 7
+-Made some changes in the implementation of Portfolio Website.
+-Wrote Day 7 Report.
