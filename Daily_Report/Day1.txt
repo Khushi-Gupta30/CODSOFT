@@ -5,4 +5,3 @@ Day 1
 -Created GitHub Repository named "-CODSOFT".
 -Created folder named "Daily Report" inside this repo.
 -Wrote Day 1 Report.
--Pushed Day 1 Report to GitHub.
