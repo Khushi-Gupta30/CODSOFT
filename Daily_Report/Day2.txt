@@ -1,13 +1,5 @@
-<<<<<<< HEAD
 16 June, 2025
 Day 2
 -Started learning HTML.
 -Learnt the basics of HTML.
 -Wrote Day 2 Report.
-=======
-16 June, 2025
-Day 2
--Started learning HTML.
--Learnt the basics of HTML.
--Wrote Day 2 Report.
->>>>>>> e2f4582 (Added Day1.txt)
