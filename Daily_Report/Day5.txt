@@ -1,0 +1,4 @@
+19 June, 2025
+Day 5
+-Learnt about Multimedia, Meta tags and SEO and Internal, External, and Inline CSS in HTML.
+-Wrote Day 5 Report.
