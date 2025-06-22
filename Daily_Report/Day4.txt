@@ -1,0 +1,4 @@
+18 June, 2025
+Day 4
+-Learnt about Links and Navigation, Lists, Images, Tables, Forms and Inputs and Semantic tags in HTML.
+-Wrote Day 4 Report.
