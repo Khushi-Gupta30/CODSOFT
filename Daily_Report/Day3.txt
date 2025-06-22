@@ -1,0 +1,4 @@
+17 June, 2025
+Day 3
+-Learnt about Text Formatting Tags and HTML Elements and Attributes in HTML.
+-Wrote Day 3 Report.
