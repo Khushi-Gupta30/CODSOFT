@@ -1,0 +1,5 @@
+20 June, 2025
+Day 6
+-Gathered knowledge about Task1 : Portfolio Website.
+-Implemented it's HTML part.
+-Wrote Day 6 Report.
