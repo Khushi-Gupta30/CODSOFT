@@ -1,0 +1,5 @@
+22 June, 2025
+-Started learning CSS.
+-Learnt the basics of CSS.
+-Wrote Day 8 Report.
+-Pushed daily reports of Day 1-8 to GitHub.
