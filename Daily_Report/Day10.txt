@@ -1,0 +1,4 @@
+24 June, 2025
+Day 10
+-Learnt about Colors and backgrounds in CSS.
+-Wrote Day 10 report.
