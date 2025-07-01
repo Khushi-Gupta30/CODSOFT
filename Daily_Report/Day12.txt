@@ -1,0 +1,4 @@
+26 June, 2025
+Day 12
+-Learnt about Display and visibility, positioning and Flexbox in CSS.
+-Wrote Day 12 report.
