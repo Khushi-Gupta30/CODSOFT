@@ -1,0 +1,4 @@
+28 June, 2025
+Day 14
+-Implemented the HTML part of Task2: Landing Page.
+-Wrote Day 14 report.
