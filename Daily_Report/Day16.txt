@@ -1,0 +1,5 @@
+30 June, 2025
+Day 16
+-Learnt about Custom Properties and common CSS shorthand in CSS.
+-Implemented CSS part of Task 1: Portfolio Website.
+-Wrote Day 16 report.
