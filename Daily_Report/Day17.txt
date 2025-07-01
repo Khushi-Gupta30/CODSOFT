@@ -1,0 +1,5 @@
+1 July, 2025
+Day 17
+-Implemented CSS part of Task2: Landing Page.
+-Pushed Task1 and Task2 to GitHub.
+-Pushed Daily reports of Day 9 to day 17 to GitHub.
