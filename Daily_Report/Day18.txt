@@ -1,0 +1,4 @@
+2 July, 2025
+-Implemented the HTML part of Task3: Calculator.
+-Learnt the basics of JavaScript.
+-Wrote Day 18 report.
