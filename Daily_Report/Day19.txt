@@ -1,0 +1,5 @@
+3 July, 2025
+Day 19
+-Implemented CSS part of Task3: calculator.
+-Learnt JavaScript.
+-Wrote Day 19 report.
